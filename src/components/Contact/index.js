@@ -11,7 +11,7 @@ const Contact = () => (
                     <div className="form-group">
                         <label >Name</label>
                         <input type="text" className="form-control" name="name" required></input>
-                        <input type="hidden" name="_next" value="https://jshallcross.github.io/react-portfolio/"
+                        <input type="hidden" name="_next" value="https://jshallcross.github.io/react-portfolio/"></input>
                     </div>
 
                     <div className="form-group">
