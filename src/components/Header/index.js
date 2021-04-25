@@ -3,19 +3,21 @@ import React, { useState } from 'react';
 import Navigation from '../Navigation';
 import Resume from '../Resume';
 import About from '../About';
-import Projects from '../Projects';
 import Contact from '../Contact';
+import Portfolio from '../Portfolio';
+
+
 
 function Header() {
-  const [currentPage, handlePageChange] = useState('Home');
+  const [currentPage, handlePageChange] = useState('About');
 
   const renderPage = () => {
 
     switch (currentPage) {
       case 'Resume':
         return <Resume/>;
-      case 'Projects':
-        return <Projects/>;
+      case 'Portfolio':
+        return <Portfolio/>;
       case 'Contact':
         return <Contact/>;
       default:

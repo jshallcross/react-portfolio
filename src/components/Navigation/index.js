@@ -2,7 +2,7 @@
 import React from 'react';
 
 function Navigation(props) {
-    const tabs = [ 'About', 'Projects', 'Contact', 'Resume'];
+    const tabs = [ 'About', 'Portfolio', 'Contact', 'Resume'];
     return (
             <ul className="navbar navbar-expand-lg navbar-light bg-light">
                 <a className="navbar-brand" href="https://google.ca">JS</a>
