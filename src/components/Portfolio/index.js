@@ -5,6 +5,8 @@ import password from"../../assets/images/screenshot.png";
 import note from"../../assets/images/note.gif";
 import weather from"../../assets/images/weather.png";
 import budget from"../../assets/images/budget.png";
+import team from"../../assets/images/team.png";
+import workday from"../../assets/images/workday.png";
 
 function Portfolio() {
    
@@ -37,6 +39,20 @@ function Portfolio() {
         appLink: "https://stark-journey-03934.herokuapp.com/",
         githubLink: "https://github.com/jshallcross1/Budget_Tracker-PWA"
     },
+    {
+      name: 'Team Profile Generator',
+      description:'This backend app allows users to use the command line to create a team. Once finished this app will generate a HTML file with your team members.',
+      imageURL: team,
+      appLink: "https://youtu.be/ZGmfErWGRjE",
+      githubLink: "https://github.com/jshallcross1/Team-Profile_Generator"
+  },
+  {
+    name: 'Work Day Scheduler',
+    description: 'This scheduler allows users to keep track of daily tasks or appointments. It was made with HTML, CSS, JavaScrip and jQuery.',
+    imageURL: workday,
+    appLink: "https://jshallcross.github.io/work-day-scheduler",
+    githubLink: "https://github.com/jshallcross1/work-day-scheduler"
+},
 
   ];
     return (
