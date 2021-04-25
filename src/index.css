@@ -72,3 +72,30 @@ ul li {
   cursor: pointer;
 
 }
+iframe{
+  height: 1000px;
+  width: 1100px;
+}
+
+#download{
+  font-size: 1.75rem;
+
+}
+
+.iframe-container {
+  margin-top: 35px;
+}
+.phone {
+  display: none;
+}
+
+@media screen and (max-width :600px) {
+
+  iframe{
+    display: none;
+  }
+  
+  .phone{
+    display:inline-table;
+  }
+}

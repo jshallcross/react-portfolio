@@ -27,9 +27,10 @@ function Project(props) {
                               <p className="card-description">{item.description}</p>
                                 <img src={item.imageURL} className="card-img" alt={item.name} title={item.name}></img>
                                 <div className="card-body">
-                                    <p className="card-text"><a className="card-link" href={item.appLink} target="_blank" title="Password Generator" rel="noreferrer" class="project-text">Deployed Site: {item.name}</a></p>
+                                    <p className="card-text"><a className="btn btn-outline-dark m-2" href={item.appLink} target="_blank" title="Password Generator" rel="noreferrer" class="project-text">Deployed Site: {item.name}</a></p>
                                     <hr></hr>
-                                    <p className="card-text"><a className="card-link" href={item.githubLink} target="_blank" title="Github Repo" rel="noreferrer" class="project-text"><i id="github" className = "fab fa-github"></i> {item.name}</a></p>
+
+                                    <p className="card-text"><a className="btn btn-outline-dark m-2" href={item.githubLink} target="_blank" title="Github Repo" rel="noreferrer" ><i className = "fab fa-github"></i> {item.name}</a></p>
                                 </div>
                             </div>
                         </div>
