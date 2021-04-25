@@ -62,3 +62,13 @@ ul li {
 .card-description{
   color: whitesmoke;
 }
+.btn {
+  background-color: #035aa6;
+  color: #171717;
+
+}
+
+.btn .submit :hover {
+  cursor: pointer;
+
+}
