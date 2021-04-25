@@ -5,7 +5,7 @@ function Navigation(props) {
     const tabs = [ 'About', 'Projects', 'Contact', 'Resume'];
     return (
             <ul className="navbar navbar-expand-lg navbar-light bg-light">
-                <a className="navbar-brand" href="#">JS</a>
+                <a className="navbar-brand" href="https://google.ca">JS</a>
                 {tabs.map(tab => (
                 <li className="nav-item" key={tab}>
             <a
