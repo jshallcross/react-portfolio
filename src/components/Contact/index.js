@@ -7,7 +7,7 @@ const Contact = () => (
             <div className="card-body">
                 <h1 className="card-title" title="Contact">Contact Me</h1>
                 <hr></hr>   
-                <form action="https://formsubmit.co/jshallcross1@icloud.com" method="POST">
+                <form action="https://formsubmit.co/jshallcross1@icloud.com" method="POST" target="_blank">
                     <div className="form-group">
                         <label >Name</label>
                         <input type="text" className="form-control" name="name" required></input>
