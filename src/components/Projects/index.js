@@ -23,7 +23,7 @@ function Project(props) {
                     {project.map(item => (
                         <div className=" col-xs-12 col-md-6" key={item.name}>
                             <div className="card bg-dark">
-                            <p className="card-title">{item.title}</p>
+                            <p className="card-title">{item.name}</p>
                               <p className="card-description">{item.description}</p>
                                 <img src={item.imageURL} className="card-img" alt={item.name} title={item.name}></img>
                                 <div className="card-body">

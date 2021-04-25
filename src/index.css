@@ -38,3 +38,27 @@ ul li {
 #github{
   font-size: 1.95rem;
 }
+
+.card-title {
+  padding-top: 20px;
+  font-size: 1.75rem;
+  color: #035aa6;
+}
+.card {
+  background:#171717;
+  
+  margin: 10px;
+}
+
+
+#Portfolio {
+  font-size: 4rem;
+}
+
+.active{
+  color: white;
+}
+
+.card-description{
+  color: whitesmoke;
+}
