@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react-portfolio/static/css/main.30cde053.chunk.css",
-    "main.js": "/react-portfolio/static/js/main.f3f6784a.chunk.js",
-    "main.js.map": "/react-portfolio/static/js/main.f3f6784a.chunk.js.map",
+    "main.js": "/react-portfolio/static/js/main.7ea0ea20.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.7ea0ea20.chunk.js.map",
     "runtime-main.js": "/react-portfolio/static/js/runtime-main.4aead98c.js",
     "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.4aead98c.js.map",
     "static/js/2.40503bc7.chunk.js": "/react-portfolio/static/js/2.40503bc7.chunk.js",
@@ -13,10 +13,10 @@
     "static/css/main.30cde053.chunk.css.map": "/react-portfolio/static/css/main.30cde053.chunk.css.map",
     "static/js/2.40503bc7.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.40503bc7.chunk.js.LICENSE.txt",
     "static/media/Jon-Shallcross-Resume.pdf": "/react-portfolio/static/media/Jon-Shallcross-Resume.5277982e.pdf",
+    "static/media/addproduct.e13ed8a1.png": "/react-portfolio/static/media/addproduct.e13ed8a1.png",
     "static/media/budget.97b573ee.png": "/react-portfolio/static/media/budget.97b573ee.png",
     "static/media/jon_1.png": "/react-portfolio/static/media/jon_1.b4a825ff.png",
     "static/media/note.53ed6ed5.gif": "/react-portfolio/static/media/note.53ed6ed5.gif",
-    "static/media/screenshot.59c0f029.png": "/react-portfolio/static/media/screenshot.59c0f029.png",
     "static/media/team.181211c5.png": "/react-portfolio/static/media/team.181211c5.png",
     "static/media/weather.2eefdae1.png": "/react-portfolio/static/media/weather.2eefdae1.png",
     "static/media/workday.bc1187b0.png": "/react-portfolio/static/media/workday.bc1187b0.png"
@@ -25,6 +25,6 @@
     "static/js/runtime-main.4aead98c.js",
     "static/js/2.40503bc7.chunk.js",
     "static/css/main.30cde053.chunk.css",
-    "static/js/main.f3f6784a.chunk.js"
+    "static/js/main.7ea0ea20.chunk.js"
   ]
 }
