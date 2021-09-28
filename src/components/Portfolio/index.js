@@ -1,7 +1,7 @@
 import React from "react";
 import Project from "../Projects"
 
-import password from"../../assets/images/screenshot.png";
+import addProduct from"../../assets/images/addproduct.png";
 import note from"../../assets/images/note.gif";
 import weather from"../../assets/images/weather.png";
 import budget from"../../assets/images/budget.png";
@@ -12,11 +12,11 @@ function Portfolio() {
    
     const projects = [
       {
-          name: 'Password Generator',
-          description: 'A password Generator made using HTML, CSS and JavaScript. It allows you to generate a password with uppercase,lowercase, numbers and symbols',
-          imageURL: password,
-          appLink: "https://jshallcross1.github.io/password-generator/",
-          githubLink: "https://github.com/jshallcross1/password-generator"
+          name: 'CurrenSeed',
+          description: 'Currenseed is an online farmer’s market. This site allows users to create Kiosks to sell their products as well as buy from local vendors.',
+          imageURL: addProduct,
+          appLink: "https://currenseed.herokuapp.com/",
+          githubLink: "https://github.com/DJ-KARMA/currenseed"
       },
       {
         name: 'Weather Dashboard',
