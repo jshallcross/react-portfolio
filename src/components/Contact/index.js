@@ -2,8 +2,8 @@ import React from "react";
 
 const Contact = () => (
 
-<div className="col-sm-12">
-        <div className="card bg-dark shadow">
+<div className="col-sm-12 col-med-6 col-lg-6" id="contact-form">
+        <div className="card bg-dark shadow" >
             <div className="card-body">
                 <h1 className="card-title" title="Contact">Contact Me</h1>
                 <hr></hr>   
@@ -28,8 +28,8 @@ const Contact = () => (
                 </form>
             </div>
         </div>  
-    </div>
-
+    
+</div>
     
 );
 

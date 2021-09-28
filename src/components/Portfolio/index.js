@@ -13,7 +13,7 @@ function Portfolio() {
     const projects = [
       {
           name: 'CurrenSeed',
-          description: 'Currenseed is an online farmer’s market. This site allows users to create Kiosks to sell their products as well as buy from local vendors.',
+          description: 'Currenseed is an online farmer’s market. This site allows users to create Kiosks to sell their products as well as buy from local vendors. Full Stack App made using React ',
           imageURL: addProduct,
           appLink: "https://currenseed.herokuapp.com/",
           githubLink: "https://github.com/DJ-KARMA/currenseed"
