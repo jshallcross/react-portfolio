@@ -1,6 +1,6 @@
 # React Portfolio
 
-Welcome to my React Portfolio website. This was week-20 challenge from the U of T Coding Boot Camp.
+Welcome to my React Portfolio website. This was week-20 challenge from the University of Toronto School of Continued Studies Coding Boot Camp. Our challenge was to create a single page application using React to display our personal web developer portfolio. It must include an About Me section, A contact form, portfolio and resume. The contact form was not required to actually function however mine does work. I received a mark of 100%.
 
 
 
