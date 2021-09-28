@@ -3,7 +3,7 @@ import React from "react";
 const Resume = () => (
   <div>
     <h1>Resume</h1>
-    <a id="download" href={require(`src\assets\resume\J Shallcross Resume.pdf`).default} download="Jon-Shallcrss-Resume.pdf" target="_blank" rel="noreferrer">
+    <a id="download" href={require(`src\assets\resume\J-Shallcross-Resume.pdf`).default} download="Jon-Shallcrss-Resume.pdf" target="_blank" rel="noreferrer">
       Download My Resume
     </a>
     <div className="iframe-container  col-lg-12">
