@@ -2,7 +2,7 @@ import React from "react";
 
 const Contact = () => (
 
-<div className="col-sm-12 col-lg-9 col-xl-6">
+<div className="col-sm-12">
         <div className="card bg-dark shadow">
             <div className="card-body">
                 <h1 className="card-title" title="Contact">Contact Me</h1>
